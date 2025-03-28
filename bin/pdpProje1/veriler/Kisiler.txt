@@ -1,0 +1,15 @@
+Ahmet#25#8500#A
+Mehmet#30#9200#B
+Ayşe#40#12000#C
+Fatma#22#7000#A
+Ali#35#15000#D
+Hasan#28#11000#E
+Zeynep#33#10000#F
+Burak#27#9500#B
+Selin#31#8700#C
+Efe#26#9300#D
+Deniz#29#8900#E
+Kaan#24#8800#F
+Elif#32#9100#A
+Hakan#36#9700#B
+Cemre#23#9400#C
