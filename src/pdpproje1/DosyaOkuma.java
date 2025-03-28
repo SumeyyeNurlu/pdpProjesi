@@ -1,8 +1,3 @@
-// DosyaOkuma.java
-import java.io.*;//Giriş/Çıkış akışlarını ve dosya işlemlerini gerçekleştirme
-import java.util.ArrayList;// Liste oluşturma ve yönetme işlemleri için
-import java.util.List;// Liste oluşturma ve yönetme işlemleri için
-
 
 public class DosyaOkuma {
 
